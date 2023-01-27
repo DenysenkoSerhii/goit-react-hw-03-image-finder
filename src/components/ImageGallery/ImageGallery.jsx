@@ -10,6 +10,7 @@ import { fetchPichureData } from 'components/helpers/fetchPichureData';
 
 import { toast } from 'react-toastify';
 
+
 const STATUS = {
   idle: 'idle',
   pending: 'pending',
